@@ -15,48 +15,48 @@ Entrega de projeto para o bootcamp microsoft IA-900
 
 - **1- Criar uma recurso para acessar o Vision**: 
 
-Após criar um recurso específico (Azuere AI Services): [![Recurso](recursocriado.png)] entrei no link para iniciar minhas atividades no laboratório designado para o Azure AI Services (https://portal.vision.cognitive.azure.com/)
+Após criar um recurso específico (Azuere AI Services): ![Recurso](recursocriado.png) entrei no link para iniciar minhas atividades no laboratório designado para o Azure AI Services (https://portal.vision.cognitive.azure.com/)
 
 
 
 - **2- Usando o Vision e seus recursos**: 
 
-1) O primeiro recurso utilizado foi o 'Reconhecimento de face' [![FacialDetected](facial.png)]
+1) O primeiro recurso utilizado foi o 'Reconhecimento de face' ![FacialDetected](facial.png)
 
 Com ele, segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de face
 
 Exemplo 1:
 
-[![Facial1](/outpout/facial1R.png)]
+![Facial1](/outpout/facial1R.png)
 
 Exemplo 2:
 
-[![Facial2](/outpout/facial2R.png)]
+![Facial2](/outpout/facial2R.png)
 
 
-2) O seugndo recurso utilizado foi o 'Reconhecimento de texto' [![TextoDetected](texto.png)]
+2) O seugndo recurso utilizado foi o 'Reconhecimento de texto' ![TextoDetected](texto.png)
 
 Com ele, segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de texto
 
 Exemplo 1:
 
-[![texto1](/outpout/extract1R.png)]
+![texto1](/outpout/extract1R.png)
 
 Exemplo 2:
 
-[![texto2](/outpout/extract2R.png)]
+![texto2](/outpout/extract2R.png)
 
-3) O terceiro recurso utilizado foi o 'Reconhecimento de imagem' [![ImagemDetected](captions.png)]
+3) O terceiro recurso utilizado foi o 'Reconhecimento de imagem' ![ImagemDetected](captions.png)
 
 com ele segui as orientações da professora, e escolhi duas imagens para fazer a o reconhecimento de imagem
 
 Exemplo 1:
 
-[![texto1](/outpout/caption1R.png)]
+![texto1](/outpout/caption1R.png)
 
 Exemplo 2:
 
-[![texto2](/outpout/caption2R.png)]
+![texto2](/outpout/caption2R.png)
 
 
 ## ✍🏻 CONSIDERAÇÕES FINAIS:
